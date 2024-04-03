@@ -35,8 +35,8 @@ sudo mkdir /etc/nginx/sites-enabled
 
 Create a file inside the sites-available directory called `example.conf` that contains server block:
 Start with `sudo vim /etc/nginx/sites-available/example.conf`, the server block should be the same that is in `/etc/nginx/nginx.conf`
+`/etc/nginx/sites-available/example.conf`
 ```
-/etc/nginx/sites-available/example.conf
 server {
     # Copy your server block that is in your nginx.conf
     # nginx.conf content can be accessed through cat /etc/nginx/nginx.conf
@@ -50,8 +50,8 @@ Create a symbolic link using `ln -s /etc/nginx/sites-available/example.conf /etc
 
 Append `include sites-enabled/*;` to the end of the `http`block, change the location root path to `/web/html/nginx-2420`
 Start with `sudo vim /etc/nginx/nginx.service`
+`/etc/nginx/nginx.conf`
 ```
-/etc/nginx/nginx.conf
 http {
     ...
     include sites-enabled/*;
