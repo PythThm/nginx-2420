@@ -34,7 +34,7 @@ sudo mkdir /etc/nginx/sites-enabled
 
 
 Create a file inside the sites-available directory called `example.conf` that contains server block:
-Start with `sudo vim /etc/nginx/sites-available/example.conf`
+Start with `sudo vim /etc/nginx/sites-available/example.conf`, the server block should be the same that is in `/etc/nginx/nginx.conf`
 ```
 /etc/nginx/sites-available/example.conf
 server {
