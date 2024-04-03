@@ -66,11 +66,13 @@ Restart Nginx using `sudo systemctl restart nginx`
 
 Correct setup example as below:
 `/etc/nginx/sites-available/example.conf`:
-![Alt text](image-2.png)
+![image](https://github.com/PythThm/nginx-2420/assets/148722652/f71e7ca4-2d85-4061-b61a-dc7c92aab819)
+
 
 
 `/etc/nginx/nginx.conf`:
-![Alt text](image-3.png)
+![image](https://github.com/PythThm/nginx-2420/assets/148722652/d74c23f5-82a4-4738-9c05-e2a3525820b6)
+
 
 
 Now we put some content into the website document, start with making a new `.html` file and edit it
@@ -113,4 +115,5 @@ sudo vim index.html
 
 Now run the server with your droplet ip
 How the result should look like:
-![Alt text](image-4.png)
+![image](https://github.com/PythThm/nginx-2420/assets/148722652/838b069a-3f24-4651-a9f2-16efa8fb580e)
+My website: http://64.23.162.170
