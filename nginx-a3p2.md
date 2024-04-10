@@ -78,13 +78,13 @@ For /hey:
 ## ![image](https://github.com/PythThm/nginx-2420/assets/148722652/39484361-f953-4d8e-8e63-850f2b3a5eb2)
 
 For /echo:
-![image](https://github.com/PythThm/nginx-2420/assets/148722652/40d1baf2-e4bd-45ce-806f-2d478844aad9)
+## ![image](https://github.com/PythThm/nginx-2420/assets/148722652/40d1baf2-e4bd-45ce-806f-2d478844aad9)
 
 
 Updated example.conf:
-![image](https://github.com/PythThm/nginx-2420/assets/148722652/3c94cb48-8e09-4952-8a9d-8d90e9ce2ff9)
+## ![image](https://github.com/PythThm/nginx-2420/assets/148722652/3c94cb48-8e09-4952-8a9d-8d90e9ce2ff9)
 
 hello-server.service:
-![image](https://github.com/PythThm/nginx-2420/assets/148722652/0e9113a2-5624-402b-abb2-23fa0147f253)
+## ![image](https://github.com/PythThm/nginx-2420/assets/148722652/0e9113a2-5624-402b-abb2-23fa0147f253)
 
 
