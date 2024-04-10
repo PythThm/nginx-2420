@@ -73,8 +73,9 @@ This should return `{"message": "Hello from your server"}`
 
 If the curl command is not working properly, please use Postman for advanced testing
 Replace the IP address with your own
+
 For /hey:
-![image](https://github.com/PythThm/nginx-2420/assets/148722652/39484361-f953-4d8e-8e63-850f2b3a5eb2)
+`![image](https://github.com/PythThm/nginx-2420/assets/148722652/39484361-f953-4d8e-8e63-850f2b3a5eb2)`
 
 For /echo:
 ![image](https://github.com/PythThm/nginx-2420/assets/148722652/40d1baf2-e4bd-45ce-806f-2d478844aad9)
